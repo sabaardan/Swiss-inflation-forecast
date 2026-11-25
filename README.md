@@ -1,2 +1,2 @@
-# Swiss-inflation-froecast
+# Swiss-inflation-forecast
 
